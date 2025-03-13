@@ -40,10 +40,8 @@
                     <ul>
                         <li>
                             <div class="social-area">
-                                <a href="#"><i class="las la-map-marker"></i>Corporate Office-
-                                    175 24th Street, OT- 35
-                                    London, UK 265</a>
-                                <a href="#"><i class="las la-envelope"></i>info@prizon.com</a>
+                                <a href="#"><i class="las la-map-marker"></i>Mumbai / Kolkata</a>
+                                <a href="#"><i class="las la-envelope"></i>info@suvanjali.com</a>
                                 <a href="#"><i class="las la-phone"></i>+91 9876543210</a>
                             </div>
                         </li>

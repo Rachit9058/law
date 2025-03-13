@@ -69,7 +69,7 @@
                             <span><i class="flaticon-international-business"></i></span>
                         </div>
                         <div class="service-title">
-                            <h4>Corporate Law</h4>
+                            <h4>Corporate Law </h4>
                             <p class="para"><i class="las la-check-square"></i> Business formation and structuring</p>
                             <p class="para"><i class="las la-check-square"></i> Mergers and acquisitions</p>
                             <p class="para"><i class="las la-check-square"></i> Corporate governance and compliance</p>

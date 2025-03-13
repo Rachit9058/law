@@ -22,10 +22,12 @@
 
                             <li><a class="navlink" href="#">Our Services</a>
                                 <ul class="sub-menu">
-                                    <li><a href="#!">Practics Areas</a></li>
-                                    <li><a href="#!">Practics Areas</a></li>
-                                    <li><a href="#!">Practics Areas</a></li>
-                                    <li><a href="#!">Practics Areas</a></li>
+                                    <li><a href="#!">Corporate Law</a></li>
+                                    <li><a href="#!">Litigation and Dispute Resolution</a></li>
+                                    <li><a href="#!">Intellectual Property</a></li>
+                                    <li><a href="#!">Employment Law</a></li>
+                                    <li><a href="#!">Real Estate and Property Law</a></li>
+                                    <li><a href="#!">Tax and Financial Planning</a></li>
                                 </ul>
                             </li>
                             <li><a class="navlink" href="#!">Careers</a></li>

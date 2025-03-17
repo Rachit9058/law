@@ -33,7 +33,6 @@
                     <p>At Suvanjali, we are committed to providing expert legal solutions tailored to your needs. With a
                         strong foundation in corporate law, intellectual property, litigation, real estate, employment
                         law, and tax planning, our experienced team ensures strategic and effective legal counsel.</p>
-
                 </div>
             </div>
         </div>
